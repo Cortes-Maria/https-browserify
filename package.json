@@ -24,5 +24,8 @@
   },
   "scripts": {
     "test": "standard"
+  },
+  "browser": {
+    "http": "@tradle/react-native-http"
   }
 }
